@@ -1,6 +1,6 @@
 # Data Science In A week: A Comprehensive Udemy Course
 
-Welcome to the Data Science course repository! This repository hosts all the code and resources associated with the Udemy course "Data Science in a week" taught by Louis Owen, an experienced AI/Data Scientist.
+Welcome to the Data Science course capstone project repository! This repository hosts all the code and resources associated with the Udemy course "Data Science in a week" taught by Louis Owen, an experienced AI/Data Scientist.
 
 ## Course Description
 
